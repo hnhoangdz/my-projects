@@ -1,1 +1,2 @@
-**Faster gender and facial expression recognition**
+- **Faster gender and facial expression recognition**
+- **RPS GAME**
